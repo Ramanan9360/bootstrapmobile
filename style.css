@@ -1,0 +1,17 @@
+
+.banner{
+    width:100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:250px;
+}
+.navimg{
+    width: 75%;
+    height:75px; 
+}
+.pimg{
+    width:65%;
+    height:150px;
+    margin:auto;
+    padding:10px;
+}
